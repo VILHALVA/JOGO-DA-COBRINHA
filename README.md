@@ -31,4 +31,3 @@ Este é um jogo simples de Snake (jogo da cobrinha) que utiliza o elemento `<can
 ## CREDITOS:
 - [PROJETO CRIADO PELO "manualdodev"](https://github.com/manualdodev/snake-game)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
